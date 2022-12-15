@@ -1,2 +1,2 @@
 # blog
-技术博客，点开Issues查看。
+技术博客，点开 [Issues](https://github.com/dearmark/blog/issues) 查看。
